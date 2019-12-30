@@ -1,0 +1,11 @@
+C:\Users\grow\Desktop\shopping\bin\Debug\netcoreapp3.1\shopping.exe
+c:\Users\grow\Desktop\shopping\bin\Debug\netcoreapp3.1\shopping.deps.json
+c:\Users\grow\Desktop\shopping\bin\Debug\netcoreapp3.1\shopping.runtimeconfig.json
+c:\Users\grow\Desktop\shopping\bin\Debug\netcoreapp3.1\shopping.runtimeconfig.dev.json
+C:\Users\grow\Desktop\shopping\bin\Debug\netcoreapp3.1\shopping.dll
+C:\Users\grow\Desktop\shopping\bin\Debug\netcoreapp3.1\shopping.pdb
+C:\Users\grow\Desktop\shopping\obj\Debug\netcoreapp3.1\shopping.csprojAssemblyReference.cache
+C:\Users\grow\Desktop\shopping\obj\Debug\netcoreapp3.1\shopping.AssemblyInfoInputs.cache
+C:\Users\grow\Desktop\shopping\obj\Debug\netcoreapp3.1\shopping.AssemblyInfo.cs
+C:\Users\grow\Desktop\shopping\obj\Debug\netcoreapp3.1\shopping.dll
+C:\Users\grow\Desktop\shopping\obj\Debug\netcoreapp3.1\shopping.pdb
